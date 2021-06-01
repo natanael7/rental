@@ -1,0 +1,26 @@
+{
+  "type": "module",
+  "name": "rental",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natanael7/rental.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natanael7/rental/issues"
+  },
+  "homepage": "https://github.com/natanael7/rental#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.9",
+    "express": "^4.17.1",
+    "node-cron": "^3.0.0"
+  }
+}
